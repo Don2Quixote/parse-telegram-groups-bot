@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": ["es2017"],
+        "outDir": "out"
+    },
+    "files": [
+        "src/main.ts",
+        "src/handleMessage.ts",
+        "src/types.d.ts"
+    ]
+}
