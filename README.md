@@ -8,7 +8,7 @@ $ npm run build
 ```
 
 ## Launching
-Fist step is filling out/.env.
+Fist step is filling out/.env\
 Next:
 ```sh
 $ cd out
